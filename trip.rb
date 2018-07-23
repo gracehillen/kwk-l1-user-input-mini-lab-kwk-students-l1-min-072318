@@ -1,7 +1,7 @@
 puts "What city would you like to go to?"
 city = gets.chomp.capitalize
 puts "Where would you like to stay?"
-stay = gets.chomp
+stay = gets.chomp.capitalize
 puts "What sites do you want to visit?"
 sites = gets.chomp
 puts "What food you want to eat?"
