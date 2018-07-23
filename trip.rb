@@ -5,4 +5,4 @@ sites = gets.chomp
 puts "What food you want to eat?"
 food = gets.chomp
 puts "How many nights do you want to stay?"
-nights
+nights =  
