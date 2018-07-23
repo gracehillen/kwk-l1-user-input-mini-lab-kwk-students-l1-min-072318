@@ -1,5 +1,5 @@
 puts "What city would you like to go to?"
-city = gets.capitalize.chomp
+city = gets.chomp.capitalize
 puts "Where would you like to stay?"
 stay = gets.chomp
 puts "What sites do you want to visit?"
