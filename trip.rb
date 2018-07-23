@@ -1,3 +1,5 @@
-puts "Where would you like to stay"
+puts "Where would you like to stay?"
 stay = gets.chomp
-puts 
+puts "What sites do you want to visit?"
+sites = gets.chomp
+puts ""
